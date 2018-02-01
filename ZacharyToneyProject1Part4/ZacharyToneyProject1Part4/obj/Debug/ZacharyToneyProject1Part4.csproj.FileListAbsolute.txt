@@ -1,0 +1,8 @@
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part4\ZacharyToneyProject1Part4\bin\ZacharyToneyProject1Part4.dll.config
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part4\ZacharyToneyProject1Part4\bin\ZacharyToneyProject1Part4.dll
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part4\ZacharyToneyProject1Part4\bin\ZacharyToneyProject1Part4.pdb
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part4\ZacharyToneyProject1Part4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part4\ZacharyToneyProject1Part4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part4\ZacharyToneyProject1Part4\obj\Debug\ZacharyToneyProject1Part4.csproj.CoreCompileInputs.cache
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part4\ZacharyToneyProject1Part4\obj\Debug\ZacharyToneyProject1Part4.dll
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part4\ZacharyToneyProject1Part4\obj\Debug\ZacharyToneyProject1Part4.pdb

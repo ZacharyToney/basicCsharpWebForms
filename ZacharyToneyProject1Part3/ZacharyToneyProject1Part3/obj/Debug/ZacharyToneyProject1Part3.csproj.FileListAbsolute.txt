@@ -1,0 +1,9 @@
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part3\ZacharyToneyProject1Part3\obj\Debug\ZacharyToneyProject1Part3.csprojResolveAssemblyReference.cache
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part3\ZacharyToneyProject1Part3\obj\Debug\ZacharyToneyProject1Part3.csproj.CoreCompileInputs.cache
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part3\ZacharyToneyProject1Part3\bin\ZacharyToneyProject1Part3.dll.config
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part3\ZacharyToneyProject1Part3\bin\ZacharyToneyProject1Part3.dll
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part3\ZacharyToneyProject1Part3\bin\ZacharyToneyProject1Part3.pdb
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part3\ZacharyToneyProject1Part3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part3\ZacharyToneyProject1Part3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part3\ZacharyToneyProject1Part3\obj\Debug\ZacharyToneyProject1Part3.dll
+C:\Users\hrltech\source\repos\ZacharyToneyProject1Part3\ZacharyToneyProject1Part3\obj\Debug\ZacharyToneyProject1Part3.pdb
